@@ -1,21 +1,31 @@
-# 👋 Hey, I'm Karthik Reddy!  
+# Hi, I'm Karthik Reddy 👋
 
-## 🔥 About Me  
-🎓 Final-year **Cybersecurity Student** | 🛡️ **eJPT Certified** | 🔍 **Ethical Hacking & Pentesting Enthusiast**  
-💻 Skilled in **Penetration Testing, Networking, Linux, and Security Tools**  
+🔐 Cybersecurity Researcher | Bug Bounty Hunter  
+🎯 Focused on Web Application Security and Vulnerability Research
 
----
+## About Me
+- eJPT Certified (INE Security)
+- Bug bounty researcher on the Com Olho platform
+- Responsible disclosure recognition from Max Healthcare
+- Interested in Web Application Security and Penetration Testing
 
-## 🚀 Projects & Contributions  
-🔹 **[Custom Sn1per Pentesting Tool](https://github.com/karthikreddychidirala/Sn-per)** (Automated Pentesting)  
-🔹 **[Other GitHub Projects](https://github.com/karthikreddychidirala?tab=repositories)**  
+## Skills
+- Web Application Security Testing
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- OWASP Top 10
+- Authentication & Authorization Testing
+- API Security Testing
 
----
+## Tools
+- Burp Suite
+- Nmap
+- Browser Developer Tools
+- Linux
 
-## 📫 Connect with Me  
-💼 **LinkedIn:** [Karthik Reddy](https://www.linkedin.com/in/karthik-reddy-32506925b)  
-📧 **Email:** chkarthikreddy49@gmail.com  
+## Current Learning
+- Advanced Web Application Security
+- Bug Bounty Methodology
+- API Security Testing
 
----
-
-> **💀 Cybersecurity isn't just a career, it's a mindset!**  
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/karthik-reddy-chidirala
